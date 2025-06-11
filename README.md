@@ -45,7 +45,7 @@ const Bertug = {
 
 * [📊 Invoice Management System (C# + SQL Server)](https://github.com/BertugTas/DataBaseUI)
   A Windows Forms application for managing invoices, dynamic data entry, and transport notes.
-* [📈 Power BI Dashboard – Education Analytics]([https://github.com/BertugTas](https://bertu-tas-project-28th.vercel.app/))
+* [📈 Power BI Dashboard – Education Analytics]((https://bertu-tas-project-28th.vercel.app/))
   Visualized trends and insights from institutional data using Power BI.
 
 ---
