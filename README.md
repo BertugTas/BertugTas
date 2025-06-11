@@ -60,7 +60,7 @@ const Bertug = {
 
 ### ✉️ Let's Connect
 
-[LinkedIn](https://linkedin.com/in/bertugtas) • [GitHub](https://github.com/BertugTas) • [Email](mailto:bertugtas@example.com)
+bertugtaas@gmail.com
 
 ---
 
