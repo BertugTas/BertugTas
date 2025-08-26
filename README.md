@@ -1,67 +1,67 @@
-<h1 align="center">Hi, I'm Bertuğ Taş 👋</h1>
-<p align="center">
-  <b>Computer Science student at Dokuz Eylül University</b><br>
-  <i>Aspiring Data Scientist | SQL Enthusiast | Business Intelligence Explorer</i>
-</p>
+# 👋 Hi, I'm Bertuğ Taş  
+
+🎓 Computer Science student at **Dokuz Eylül University**  
+📊 Passionate about **Data Science, SQL, and Business Intelligence**  
+💡 Focused on building projects that combine software development with data-driven insights  
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me  
 
 ```cs
 const Bertug = {
   university: "Dokuz Eylül University",
   major: "Computer Science",
   focus: "Data Science & Business Intelligence",
-  experience: "1 year of building, querying, analyzing",
-  currentStack: ["C#", "SQL Server", "PostgreSQL", "Power BI", "Python (pandas, matplotlib)"],
-  goal: "To become a world-class Data Scientist solving real-world problems."
+  experience: "Building, querying, analyzing since 2024",
+  currentStack: ["C#", "SQL Server", "PostgreSQL", "Power BI", "Python (pandas, scikit-learn)"],
+  goal: "To create meaningful solutions by bridging data and real-world applications."
 };
-```
+---------
+🚀 Tech & Tools
+	•	💻 Languages: C#, SQL (T-SQL, PL/pgSQL), Python
+	•	📊 BI Tools: Power BI, DAX, Excel
+	•	🛂 Databases: MS SQL Server, PostgreSQL
+	•	📚 ML/DS Stack: pandas, matplotlib, scikit-learn
+	•	🔧 Other: Git, Visual Studio, pgAdmin, SSMS
+----------
+🗂️ Highlight Projects
+	•	🧾 Invoice Management System (C# + SQL Server)
+Windows Forms application for managing invoices, products, and transport notes.
+	•	📊 Power BI Dashboard – Education Analytics
+Visualized institutional data trends and insights with interactive dashboards.
+	•	🤖 Job Scraping Bot (Python + Playwright)
+Automated bot to collect job postings, store them in JSON, and send SMS alerts for new listings.
+----------
+🚰 Currently Working On
+	•	Optimizing PostgreSQL queries for better performance
+	•	Integrating ML models into BI dashboards
+	•	Building public data projects with interactive storytelling
 
----
+-----------
+📌 A Bit More About Me
 
-### 🚀 Tech & Tools
+When I’m not coding, I’m usually:
+	•	🌍 Exploring new technology trends and tools
+	•	📚 Learning step by step and sharing progress
+	•	🎨 Experimenting with design & creative ideas
 
-* 💻 **Languages:** C#, SQL (T-SQL, PL/pgSQL), Python
-* 📊 **BI Tools:** Power BI, DAX, Excel
-* 🛂 **Databases:** MS SQL Server, PostgreSQL
-* 📚 **ML/DS Stack:** pandas, matplotlib, scikit-learn (beginner level)
-* 🔧 **Other:** Git, Visual Studio, pgAdmin, SSMS
+-----------
+✉️ Let’s Connect
 
----
+📧 bertugtaas@gmail.com
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BertugTas&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="github stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BertugTas&layout=compact&theme=radical" alt="top langs" />
-</p>
 
----
 
-### 🗂️ Highlight Projects
 
-* [📊 Invoice Management System (C# + SQL Server)](https://github.com/BertugTas/DataBaseUI)
-  A Windows Forms application for managing invoices, dynamic data entry, and transport notes.
-* [📈 Power BI Dashboard – Education Analytics](https://bertu-tas-project-28th.vercel.app/)
-  Visualized trends and insights from institutional data using Power BI.
 
----
 
-### 🚰 Currently Working On
 
-* Expanding PostgreSQL query optimization techniques
-* Integrating ML models into business dashboards
-* Building a public data project with interactive visual storytelling
 
----
 
-### ✉️ Let's Connect
 
-bertugtaas@gmail.com
 
----
 
-<sub>“Strong foundations. Clean queries. Insightful visuals.”</sub>
+
+
