@@ -1,67 +1,36 @@
-# 👋 Hi, I'm Bertuğ Taş  
+# Bertuğ Taş
 
-🎓 Computer Science student at **Dokuz Eylül University**  
-📊 Passionate about **Data Science, SQL, and Business Intelligence**  
-💡 Focused on building projects that combine software development with data-driven insights  
+Computer Science student at Dokuz Eylül University, İzmir.  
+Working on machine learning and deep learning — primarily in medical imaging and computer vision.
 
 ---
 
-## 🧠 About Me  
+```python
+profile = {
+    "university": "Dokuz Eylül University — Computer Science",
+    "focus":      ["Machine Learning", "Deep Learning", "Computer Vision"],
+    "stack":      ["Python", "TensorFlow", "Keras", "OpenCV", "scikit-learn", "NumPy"],
+    "current":    "Medical image classification with CNN architectures",
+    "website":    "bertugtas.com.tr"
+}
+```
 
-```cs
-const Bertug = {
-  university: "Dokuz Eylül University",
-  major: "Computer Science",
-  focus: "Data Science & Business Intelligence",
-  experience: "Building, querying, analyzing since 2024",
-  currentStack: ["C#", "SQL Server", "PostgreSQL", "Power BI", "Python (pandas, scikit-learn)"],
-  goal: "To create meaningful solutions by bridging data and real-world applications."
-};
----------
-🚀 Tech & Tools
-	•	💻 Languages: C#, SQL (T-SQL, PL/pgSQL), Python
-	•	📊 BI Tools: Power BI, DAX, Excel
-	•	🛂 Databases: MS SQL Server, PostgreSQL
-	•	📚 ML/DS Stack: pandas, matplotlib, scikit-learn
-	•	🔧 Other: Git, Visual Studio, pgAdmin, SSMS
-----------
-🗂️ Highlight Projects
-	•	🧾 Invoice Management System (C# + SQL Server)
-Windows Forms application for managing invoices, products, and transport notes.
-	•	📊 Power BI Dashboard – Education Analytics
-Visualized institutional data trends and insights with interactive dashboards.
-	•	🤖 Job Scraping Bot (Python + Playwright)
-Automated bot to collect job postings, store them in JSON, and send SMS alerts for new listings.
-----------
-🚰 Currently Working On
-	•	Optimizing PostgreSQL queries for better performance
-	•	Integrating ML models into BI dashboards
-	•	Building public data projects with interactive storytelling
+---
 
------------
-📌 A Bit More About Me
+## Work
 
-When I’m not coding, I’m usually:
-	•	🌍 Exploring new technology trends and tools
-	•	📚 Learning step by step and sharing progress
-	•	🎨 Experimenting with design & creative ideas
+**Brain MRI Tumor Classification** — CNN-based tumor detection and classification from MRI scans.  
+**Cancer Diagnosis Model** — Comparative analysis of ML algorithms (LR, RF, SVM, KNN) for breast cancer diagnosis.  
+**Enterprise BI Dashboard** — Power BI report with DAX calculations and star-schema modeling.  
+**Automated Data Pipeline** — Python + Playwright scraper with Twilio SMS alerting.
 
------------
-✉️ Let’s Connect
+---
 
-📧 bertugtaas@gmail.com
+## Stack
 
+`Python` `TensorFlow` `Keras` `OpenCV` `scikit-learn` `NumPy` `pandas`  
+`SQL` `PostgreSQL` `MS SQL Server` `Power BI` `DAX` `C#`
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
+bertugtaas@gmail.com · [linkedin.com/in/bertuğ-taş-bb20562b5](https://linkedin.com/in/bertuğ-taş-bb20562b5) · [bertugtas.com.tr](https://bertugtas.com.tr)
